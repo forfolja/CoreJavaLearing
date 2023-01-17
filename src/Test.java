@@ -51,9 +51,9 @@ public class Test {
         String t = "2";
         System.out.println(t.repeat(3));
 
-       StringBuilder t = new StringBuilder("Hashimoto");
+        StringBuilder t = new StringBuilder("Hashimoto");
 
-       System.out.println(t.reverse());
+        System.out.println(t.reverse());
 
         String t = "Hashimoto\n Nanami\n 773";
         String t = """
@@ -69,7 +69,7 @@ public class Test {
         String name = in.nextLine();
         System.out.println("How old are you? \n ");
         int age = in.nextInt();
-        System.out.println("Hello, " + name + ". Next year,you'll be " + (age + 1));*/
+        System.out.println("Hello, " + name + ". Next year,you'll be " + (age + 1));
 
         int x = 100;
         int y = 20;
@@ -77,6 +77,33 @@ public class Test {
         System.out.println("Ture");}
         else System.out.println("False");
 
+
+        for (int i = 10; i > 0; i--)
+            System.out.println("Counting down . . . " + i);
+        System.out.println("Blastoff!");
+
+        for (double i = 0 ;i<10 ;i+=0.1)
+        System.out.println(i);
+        Scanner in = new Scanner(System.in);
+        System.out.println("How many numbers do you need to draw? ");
+        int k = in.nextInt();
+        System.out.println("What is the highest number you can draw? ");
+        int n = in.nextInt();
+        int test = 1;
+        for(int i = 1;i<=k;i++)
+            test = test *(n+i+1)/i;
+        System.out.println("Your odds are 1 in " + test + ". Good luck!");
+
+        String seasonName = "Spring";
+        int numLetters = switch (seasonName){
+            case Spring ->{
+                System.out.println("spring time");
+                yield 6;
+            }
+            case Summer,Winter->6;
+            case Autumn->4;
+            default -> -1;
+        };*/
 
 
 

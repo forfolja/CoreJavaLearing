@@ -17,6 +17,7 @@ public class Retirement {
             balance += payment;
             double interest = balance * interestRate / 100;
             balance += interest;
+            if (years<100) continue;
             years++;
         }
         System.out.println("You can retire in " + years + " years.");
