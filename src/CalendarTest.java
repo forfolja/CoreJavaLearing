@@ -2,7 +2,7 @@ import java.time.*;
 
 public class CalendarTest {
 
-    LocalDate date = LocalDate.now();
+/*    LocalDate date = LocalDate.now();
     int month = date.getMonthValue();
     int day = date.getDayOfMonth();
 
@@ -13,5 +13,5 @@ public class CalendarTest {
     System.out.println ("Mon Tue Wed Thu Fri Sat Sun");
 
 
-
+*/
 }
