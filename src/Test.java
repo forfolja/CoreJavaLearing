@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Test {
@@ -103,10 +104,72 @@ public class Test {
             case Summer,Winter->6;
             case Autumn->4;
             default -> -1;
-        };*/
+        };
+        Scanner in = new Scanner(System.in);
+        int sum = 0;
+        int goal = 100;
+        while (sum < goal)
+        {
+            System.out.print("Enter a number: ");
+            int n = in.nextInt();
+            if (n < 0) continue;
+            sum += n;
+        }
+       String str1 = "我是一个字符串";
+       char c1 = 'c';
+       boolean b1 = false;
+       int i1 = 10;
+       double d1 = 99.9;
+       float f1 = 99.9f;
+
+       System.out.printf("字符串型：%s%n字符型：%c%n布尔型：%b%n整型（十进制）：%d%n单精度浮点型：%f%n双精度浮点型：%f%n",str1,c1,b1,i1,f1,d1);
+        double [] i= {1.1,1.2,1.3 };
+
+        double [] k = i;
+        System.out.println(k[1]);
 
 
+        if (args.length == 0 || args[0].equals("-h"))
+            System.out.print("Hello,");
+        else if (args[0].equals("-g"))
+            System.out.print("Goodbye,");
 
+        for (int i = 1; i < args.length; i++)
+            System.out.print(" " + args[i]);
+        System.out.println("!");
+
+            int array[] = { 2, 5, -2, 6, -3, 8, 0, -7, -9, 4 };
+            Arrays.sort(array);
+            printArray("数组排序结果为", array);
+            int index = Arrays.binarySearch(array, 2);
+            System.out.println("元素 2  在第 " + index + " 个位置");
+        }
+        private static void printArray(String message, int array[]) {
+            System.out.println(message + ": [length: " + array.length + "]");
+            for (int i = 0; i < array.length; i++) {
+                if(i != 0){
+                    System.out.print(", ");
+                }
+                System.out.print(array[i]);
+            }
+            System.out.println();
+
+        int [] x  = {1,3,9,5,21,10,20,3};
+        Arrays.sort(x);
+        for (int n =0;n< x.length;n++)
+            System.out.println(x[n]);
+        int [] x  = {1,3,9,5,21,10,20,3};
+        Arrays.sort(x);
+        System.out.println(Arrays.toString(x));
+
+        String [] Hashi = {"-h","cruel","world"};
+          if (Hashi.length==0 || Hashi[0].equals("-h"))
+              System.out.print("Hello,");
+          else if (Hashi[0].equals("-g"))
+              System.out.print("Goodbye,");
+          for(int i = 1;i<Hashi.length;i++)
+              System.out.print(" "+Hashi[i]);
+        System.out.println("!");*/
 
     }
 }

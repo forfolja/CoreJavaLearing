@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update While loop Learning">
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.17 Learning">
+      <change afterPath="$PROJECT_DIR$/src/BigIntegerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Retirement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Retirement">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BigIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigIntegerTest" />
+      <module name="CoreJavaLearing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Retirement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Retirement" />
       <module name="CoreJavaLearing" />
@@ -81,8 +87,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Retirement" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BigIntegerTest" />
+        <item itemvalue="Application.Retirement" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +104,7 @@
       <workItem from="1673834861413" duration="822000" />
       <workItem from="1673835731917" duration="11080000" />
       <workItem from="1673942806323" duration="30000" />
-      <workItem from="1673942855228" duration="1951000" />
+      <workItem from="1673942855228" duration="7423000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -120,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673938383575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update 1.17 Learning">
+      <created>1673948181202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673948181202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +161,7 @@
     <MESSAGE value="Start Learning" />
     <MESSAGE value="Update Variable type content" />
     <MESSAGE value="Update While loop Learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update While loop Learning" />
+    <MESSAGE value="Update 1.17 Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.17 Learning" />
   </component>
 </project>
