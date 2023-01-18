@@ -1,4 +1,9 @@
+import java.sql.Timestamp;
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
 import java.util.Arrays;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.Scanner;
 
 public class Test {
@@ -169,7 +174,15 @@ public class Test {
               System.out.print("Goodbye,");
           for(int i = 1;i<Hashi.length;i++)
               System.out.print(" "+Hashi[i]);
-        System.out.println("!");*/
+        System.out.println("!");
 
+        Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+
+        System.out.println(timestamp.getTime());
+        LocalDate date = LocalDate.of(2022,12,02);
+        LocalDate dateGoal = date.plusDays(180);
+        System.out.println(dateGoal);*/
+
+        System.out.println("当前时间: " + LocalDate.now());
     }
 }
