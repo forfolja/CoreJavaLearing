@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.18 timestamp print">
-      <change afterPath="$PROJECT_DIR$/src/CalendarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,9 @@
       <workItem from="1673834861413" duration="822000" />
       <workItem from="1673835731917" duration="11080000" />
       <workItem from="1673942806323" duration="30000" />
-      <workItem from="1673942855228" duration="11432000" />
+      <workItem from="1673942855228" duration="11503000" />
+      <workItem from="1674034158964" duration="5000" />
+      <workItem from="1674091512890" duration="238000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674014262544</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update 1.18 timestamp print">
+      <created>1674033789225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674033789225</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +184,7 @@
     <MESSAGE value="Update While loop Learning" />
     <MESSAGE value="Update 1.17 Learning" />
     <MESSAGE value="Update 1.18 Learning Content before the noonRest" />
+    <MESSAGE value="Update 1.18 LocalDate Inferface Learning" />
     <MESSAGE value="Update 1.18 timestamp print" />
     <option name="LAST_COMMIT_MESSAGE" value="Update 1.18 timestamp print" />
   </component>
