@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.19 clone the LearningCode at home">
-      <change afterPath="$PROJECT_DIR$/src/ConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticTest.java" afterDir="false" />
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.24 Learning at Afternoon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalendarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +127,7 @@
       <workItem from="1673942855228" duration="11432000" />
       <workItem from="1674077162636" duration="59000" />
       <workItem from="1674077225943" duration="236000" />
-      <workItem from="1674528791704" duration="13435000" />
+      <workItem from="1674528791704" duration="14659000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -182,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674077377824</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update 1.24 Learning at Afternoon">
+      <created>1674552170527</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674552170528</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +216,7 @@
     <MESSAGE value="Update 1.18 Learning Content before the noonRest" />
     <MESSAGE value="Update 1.18 timestamp print" />
     <MESSAGE value="Update 1.19 clone the LearningCode at home" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 1.19 clone the LearningCode at home" />
+    <MESSAGE value="Update 1.24 Learning at Afternoon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.24 Learning at Afternoon" />
   </component>
 </project>
