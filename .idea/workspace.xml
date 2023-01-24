@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.18 timestamp print">
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.19 clone the LearningCode at home">
+      <change afterPath="$PROJECT_DIR$/src/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalendarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,23 +65,43 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BigIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BigIntegerTest" />
+  <component name="RunManager" selected="Application.ConstructorTest">
+    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructorTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Retirement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Retirement" />
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <module name="CoreJavaLearing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extends.EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extends.EmployeeTest" />
+      <module name="CoreJavaLearing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Extends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,9 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.BigIntegerTest" />
-        <item itemvalue="Application.Retirement" />
+        <item itemvalue="Application.ConstructorTest" />
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Extends.EmployeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +130,8 @@
       <workItem from="1673942806323" duration="30000" />
       <workItem from="1673942855228" duration="11432000" />
       <workItem from="1674077162636" duration="59000" />
+      <workItem from="1674077225943" duration="236000" />
+      <workItem from="1674528791704" duration="13435000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -147,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674014262544</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update 1.19 clone the LearningCode at home">
+      <created>1674077377824</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674077377824</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +212,7 @@
     <MESSAGE value="Update 1.17 Learning" />
     <MESSAGE value="Update 1.18 Learning Content before the noonRest" />
     <MESSAGE value="Update 1.18 timestamp print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 1.18 timestamp print" />
+    <MESSAGE value="Update 1.19 clone the LearningCode at home" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.19 clone the LearningCode at home" />
   </component>
 </project>
