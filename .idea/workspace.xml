@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.24 Learning at Afternoon">
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.25 Learning theClass Extend">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Retirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +49,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2KO9eKGu2ptbVNQp9y4DxcOQgzb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,43 +72,36 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConstructorTest">
-    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorTest" />
+  <component name="RunManager" selected="Application.ManagerTest">
+    <configuration name="Java14Record" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java14Record" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee" />
+    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+    <configuration name="RecordTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecordTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Extends.EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Extends.EmployeeTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="CoreJavaLearing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Extends.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticTest" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructorTest" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Extends.EmployeeTest" />
+        <item itemvalue="Application.ManagerTest" />
+        <item itemvalue="Application.RecordTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Java14Record" />
+        <item itemvalue="Application.Unnamed" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +131,8 @@
       <workItem from="1673942855228" duration="11432000" />
       <workItem from="1674077162636" duration="59000" />
       <workItem from="1674077225943" duration="236000" />
-      <workItem from="1674528791704" duration="14659000" />
+      <workItem from="1674528791704" duration="16985000" />
+      <workItem from="1674612737734" duration="10219000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -185,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674552170528</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update 1.24 Learning at Afternoon">
+      <created>1674557547316</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674557547316</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +229,7 @@
     <MESSAGE value="Update 1.18 timestamp print" />
     <MESSAGE value="Update 1.19 clone the LearningCode at home" />
     <MESSAGE value="Update 1.24 Learning at Afternoon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 1.24 Learning at Afternoon" />
+    <MESSAGE value="Update 1.25 Learning theClass Extend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.25 Learning theClass Extend" />
   </component>
 </project>

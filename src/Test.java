@@ -5,9 +5,9 @@ import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
-
+ /*
 public class Test {
-  /* public static final  double CM_PER_INCH = 2.54;
+  public static final  double CM_PER_INCH = 2.54;
     public static void main(String[] args) {
 
        double paperWidth = 8.5;
@@ -20,7 +20,7 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("Size s is ");
-    }*/
+    }
 
     public static void main(String[] args) {
         /* double x = 6;
@@ -181,8 +181,36 @@ public class Test {
         System.out.println(timestamp.getTime());
         LocalDate date = LocalDate.of(2022,12,02);
         LocalDate dateGoal = date.plusDays(180);
-        System.out.println(dateGoal);*/
+        System.out.println(dateGoal);
 
         System.out.println("当前时间: " + LocalDate.now());
+
+
+    }
+
+
+           record Range(int start,int end){
+
+            public void test(){
+            Range aRange = new Range(100,200);
+            System.out.println(aRange);
+
+            Range bRange = new Range(100,200);
+            System.out.println(aRange.equals(bRange));
+        }
+        }
+    }
+*/
+
+record Dog(String name, Integer age) { }
+public class Test {
+
+    public static void main(String[] args) {
+        Dog dog1 = new Dog("牧羊犬", 1);
+        Dog dog2 = new Dog("田园犬", 2);
+        Dog dog3 = new Dog("哈士奇", 3);
+        System.out.println(dog1);
+        System.out.println(dog2);
+        System.out.println(dog3);
     }
 }

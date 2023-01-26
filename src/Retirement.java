@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*
 public class Retirement {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -23,3 +23,5 @@ public class Retirement {
         System.out.println("You can retire in " + years + " years.");
     }
 }
+
+*/
