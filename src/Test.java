@@ -1,3 +1,4 @@
+import java.lang.reflect.Field;
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
@@ -6,6 +7,17 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
  /*
+public class Test {
+    public static void main(String[] args) throws ReflectiveOperationException
+    {
+        var harry = new Employee("Harry Hacker",50000,1989,11,1);
+        Class c1 = harry.getClass();
+        Field f = c1.getDeclaredField("name");
+        Object v = f.get(harry);
+    }
+
+}
+
 public class Test {
   public static final  double CM_PER_INCH = 2.54;
     public static void main(String[] args) {
@@ -200,7 +212,7 @@ public class Test {
         }
         }
     }
-*/
+
 
 record Dog(String name, Integer age) { }
 public class Test {
@@ -212,5 +224,8 @@ public class Test {
         System.out.println(dog1);
         System.out.println(dog2);
         System.out.println(dog3);
+
+
     }
 }
+  */
