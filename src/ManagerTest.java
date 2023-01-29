@@ -1,10 +1,10 @@
 import java.util.ArrayList;
-
+/*
 /**
  * 这个程序主要是用来尝试学习并使用类的继承
  * @version 1.0 2023-01-25 19:17:01
  * @author forfolja
-  */
+
 public class ManagerTest {
 
     public static void main(String[] args) {
@@ -37,7 +37,8 @@ public class ManagerTest {
 
         System.out.println(staff.get(0));
         System.out.println(staff.size());
-          */
+
 
     }
 }
+            */

@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.25 Learning theClass Extend">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Retirement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -72,9 +70,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ManagerTest">
-    <configuration name="Java14Record" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java14Record" />
+  <component name="RunManager" selected="Application.CloneTest">
+    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CloneTest" />
+      <module name="CoreJavaLearing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeSortTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,14 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="CoreJavaLearing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimerTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CloneTest" />
+        <item itemvalue="Application.TimerTest" />
+        <item itemvalue="Application.EmployeeSortTest" />
         <item itemvalue="Application.ManagerTest" />
         <item itemvalue="Application.RecordTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Java14Record" />
-        <item itemvalue="Application.Unnamed" />
       </list>
     </recent_temporary>
   </component>

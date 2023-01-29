@@ -1,3 +1,4 @@
+/*
 public class Manager extends Employee{
     private double bonus;
     public Manager(String name,double salary,int year,int month,int day){
@@ -26,3 +27,4 @@ public class Manager extends Employee{
     }
 }
 
+*/
