@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.time.*;
 import javax.swing.*;
-
+/*
 public class InnerClassTest {
     public static void main(String[] args) {
         var clock = new TalkingClock(1000,true);
@@ -32,4 +32,6 @@ class TalkingClock{
         }
     }
 }
+
+ */
 
