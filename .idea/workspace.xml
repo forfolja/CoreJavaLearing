@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.25 Learning theClass Extend">
-      <change afterPath="$PROJECT_DIR$/src/CloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimerTest.java" afterDir="false" />
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.29 before noonRest cloneMethod Learning">
+      <change afterPath="$PROJECT_DIR$/src/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CloneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeSortTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CloneTest">
+  <component name="RunManager" selected="Application.InnerClassTest">
     <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CloneTest" />
       <module name="CoreJavaLearing" />
@@ -85,15 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+    <configuration name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerClassTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecordTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecordTest" />
+    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InnerClassTest" />
+        <item itemvalue="Application.LambdaTest" />
+        <item itemvalue="Application.EmployeeSortTest" />
         <item itemvalue="Application.CloneTest" />
         <item itemvalue="Application.TimerTest" />
-        <item itemvalue="Application.EmployeeSortTest" />
-        <item itemvalue="Application.ManagerTest" />
-        <item itemvalue="Application.RecordTest" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674557547316</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update 1.29 before noonRest cloneMethod Learning">
+      <created>1674964290100</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674964290101</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +236,7 @@
     <MESSAGE value="Update 1.19 clone the LearningCode at home" />
     <MESSAGE value="Update 1.24 Learning at Afternoon" />
     <MESSAGE value="Update 1.25 Learning theClass Extend" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 1.25 Learning theClass Extend" />
+    <MESSAGE value="Update 1.29 before noonRest cloneMethod Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.29 before noonRest cloneMethod Learning" />
   </component>
 </project>

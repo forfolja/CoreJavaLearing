@@ -59,7 +59,7 @@ import java.util.GregorianCalendar;
     }
 
 }
-
+*/
 
 public class Employee implements Comparable<Employee> {
     private String name;
@@ -86,7 +86,7 @@ public class Employee implements Comparable<Employee> {
         return Double.compare(salary, other.salary);
     }
 }
-*/
+/*
 public class Employee implements Cloneable{
     private String name;
     private double salary;
@@ -121,3 +121,4 @@ public class Employee implements Cloneable{
         return "Employee[name="+name+",salary="+salary+",hireDay="+hireDay+"]";
     }
 }
+*/
