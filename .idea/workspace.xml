@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EqualsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticInnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackTraceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +65,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ProxyTest">
+  <component name="RunManager" selected="Application.StackTraceTest">
     <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerTest" />
       <module name="CoreJavaLearing" />
@@ -94,6 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackTraceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackTraceTest" />
+      <module name="CoreJavaLearing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StaticInnerClassTest" />
       <module name="CoreJavaLearing" />
@@ -101,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="CoreJavaLearing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackTraceTest" />
         <item itemvalue="Application.ProxyTest" />
         <item itemvalue="Application.StaticInnerClassTest" />
         <item itemvalue="Application.ManagerTest" />
         <item itemvalue="Application.RecordTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
