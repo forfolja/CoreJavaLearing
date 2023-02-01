@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StackTraceTest.java" afterDir="false" />
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 1.30 Exception,StrackTrace,Assertions Learning">
+      <change afterPath="$PROJECT_DIR$/123.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoggingImageViewer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,19 +54,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.StackTraceTest">
+}]]></component>
+  <component name="RunManager" selected="Application.LoggingImageViewer">
+    <configuration name="LoggingImageViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoggingImageViewer" />
+      <module name="CoreJavaLearing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerTest" />
       <module name="CoreJavaLearing" />
@@ -75,13 +84,6 @@
     </configuration>
     <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProxyTest" />
-      <module name="CoreJavaLearing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecordTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecordTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoggingImageViewer" />
         <item itemvalue="Application.StackTraceTest" />
         <item itemvalue="Application.ProxyTest" />
         <item itemvalue="Application.StaticInnerClassTest" />
         <item itemvalue="Application.ManagerTest" />
-        <item itemvalue="Application.RecordTest" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +130,7 @@
       <workItem from="1674528791704" duration="16985000" />
       <workItem from="1674612737734" duration="10219000" />
       <workItem from="1674993080477" duration="3042000" />
+      <workItem from="1675133527148" duration="4208000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -199,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674908896806</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update 1.30 Exception,StrackTrace,Assertions Learning">
+      <created>1675069611786</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675069611786</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +234,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Start Learning" />
     <MESSAGE value="Update Variable type content" />
     <MESSAGE value="Update While loop Learning" />
@@ -235,6 +246,7 @@
     <MESSAGE value="Update 1.25 Learning theClass Extend" />
     <MESSAGE value="Update 1.28 Merge Two Branch" />
     <MESSAGE value="Update 1.28 Merge two branch anyway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 1.28 Merge two branch anyway" />
+    <MESSAGE value="Update 1.30 Exception,StrackTrace,Assertions Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.30 Exception,StrackTrace,Assertions Learning" />
   </component>
 </project>
