@@ -1,4 +1,6 @@
+/*
 public class StaticInnerClassTest {
+
     public static void main(String[] args) {
         var values = new double[20];
         for(int i = 0; i < values.length; i++)
@@ -38,3 +40,4 @@ class  ArrayAlg{
         return new Pair(min, max);
     }
 }
+ */
