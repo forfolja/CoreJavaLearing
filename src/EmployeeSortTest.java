@@ -1,5 +1,5 @@
 import java.util.*;
-
+/*
 public class EmployeeSortTest {
     public static void main(String[] args) {
         var staff = new Employee[3];
@@ -14,3 +14,5 @@ public class EmployeeSortTest {
             System.out.printf("name="+aEmployee.getName()+",salary="+aEmployee.getSalary());
     }
 }
+
+ */
