@@ -1,4 +1,4 @@
-import java.lang.reflect.*;
+/*import java.lang.reflect.*;
 import java.util.*;
 import java.util.function.*;
 class TypeLiteral <T>
@@ -83,8 +83,7 @@ public class TypeLiterals
             strings.add("Hello");strings.add("World");
         }
     }
-    private static <T> String join(String separator,ArrayList<T> elements)
-    {
+    private static <T> String join(String separator,ArrayList<T> elements
         var result = new StringBuilder();
         for (T e :elements)
         {
@@ -101,3 +100,6 @@ public class TypeLiterals
         System.out.println(formatter.formatFields(new Sample()));
     }
 }
+
+
+ */
