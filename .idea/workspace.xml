@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 2.6 Generic and Reflect Learning">
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 2.8 Learning Content">
+      <change afterPath="$PROJECT_DIR$/src/LinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypeLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeLiterals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.LinkedListTest">
     <configuration name="GenericReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenericReflectionTest" />
       <module name="CoreJavaLearing" />
@@ -75,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PairTest2" />
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TypeLiterals" />
         <item itemvalue="Application.GenericReflectionTest" />
         <item itemvalue="Application.PairTest3" />
-        <item itemvalue="Application.PairTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +131,8 @@
       <workItem from="1674993080477" duration="3042000" />
       <workItem from="1675133527148" duration="8320000" />
       <workItem from="1675302111610" duration="498000" />
-      <workItem from="1675647537156" duration="11668000" />
+      <workItem from="1675647537156" duration="11698000" />
+      <workItem from="1676007294098" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675673475869</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update 2.8 Learning Content">
+      <created>1675848368961</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675848368961</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +280,7 @@
     <MESSAGE value="Update 2.1 Learning LoggerViewerFrame" />
     <MESSAGE value="Update 2.1 Learning Generic" />
     <MESSAGE value="Update 2.6 Generic and Reflect Learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2.6 Generic and Reflect Learning" />
+    <MESSAGE value="Update 2.8 Learning Content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2.8 Learning Content" />
   </component>
 </project>
