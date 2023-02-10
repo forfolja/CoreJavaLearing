@@ -122,3 +122,9 @@ public class Employee implements Cloneable{
 }
 
  */
+
+public class Employee
+{
+       private String name;
+       Employee(String name) {}
+}
