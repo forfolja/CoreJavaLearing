@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 2.8 LinkedList Learning Content">
-      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PriorityQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pg35688.txt" afterDir="false" />
+    <list default="true" id="fbacf0ed-6270-4930-a507-85abadc96c8d" name="Changes" comment="Update 2.8 Map&amp;Set Learning Content">
+      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnsynchBackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MapTest">
-    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
-      <module name="CoreJavaLearing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UnsynchBackTest">
     <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MapTest" />
       <module name="CoreJavaLearing" />
@@ -96,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetTest" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadTest" />
       <module name="CoreJavaLearing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnsynchBackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnsynchBackTest" />
+      <module name="CoreJavaLearing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnsynchBackTest" />
+        <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.MapTest" />
         <item itemvalue="Application.PriorityQueueTest" />
         <item itemvalue="Application.TreeSetTest" />
-        <item itemvalue="Application.SetTest" />
-        <item itemvalue="Application.LinkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +138,8 @@
       <workItem from="1675647537156" duration="11698000" />
       <workItem from="1676007294098" duration="2270000" />
       <workItem from="1676013783928" duration="153000" />
-      <workItem from="1676013952012" duration="2058000" />
+      <workItem from="1676013952012" duration="2392000" />
+      <workItem from="1676251907090" duration="6034000" />
     </task>
     <task id="LOCAL-00001" summary="Start Learning">
       <created>1673834908639</created>
@@ -256,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676007927965</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Update 2.8 Map&amp;Set Learning Content">
+      <created>1676016038646</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676016038646</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +303,7 @@
     <MESSAGE value="Update 2.6 Generic and Reflect Learning" />
     <MESSAGE value="Update 2.8 Learning Content" />
     <MESSAGE value="Update 2.8 LinkedList Learning Content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2.8 LinkedList Learning Content" />
+    <MESSAGE value="Update 2.8 Map&amp;Set Learning Content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2.8 Map&amp;Set Learning Content" />
   </component>
 </project>
